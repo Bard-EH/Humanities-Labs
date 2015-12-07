@@ -16,9 +16,15 @@ Upon opening the file in Lightroom, you will be prompted with options for your p
 
 After importing, go to the "Develop" tab in the top-right corner. You may have to reselect the thumbnail of the image we're working on in the bottom slider menu.
 
+After this point, every step you take is your own! Feel free to get creative, we're just providing the typical guidelines.
+
 Begin with cropping and adjusting the angle of the photo. The crop tool is in the top left of the tool bar on the right. Level guidelines are overlayed to help with the tilt — though in this case, the image seems to already be level.
 
-Once you've decided upon the canvas you want to work with, move onto editing the image itself. Select the most accurate white-balance option, then adjust the brightness of the image until you see fit. Attempt to find a balanced point of exposure — we can always adjust highlights and shadows after. 
+Once you've decided upon the canvas you want to work with, move onto editing the image itself. Select the most accurate white-balance option, then adjust the exposure, or brightness, of the image until you see fit. Attempt to find the most balanced point of exposure — we can always adjust highlights and shadows after. 
+
+After deciding upon an exposure, adjust the contrast. Contrast is the scale of difference between black and white in your image. RAW images assume a neutral contrast level, so increasing the contrast level to around +15 is a safe start. Make sure to pay attention to how adjusting contrast affects the highlights and shadows of the image.
+
+Next, we move onto highlights, shadows, whites, and blacks. 
 
 
 
