@@ -34,9 +34,10 @@ In street and ground-level views:
 Viewing Options: 
 
 Standard View
-      -  Activated when application first open
-      - Can view 2d satellite images from above
-      - Can create paths, shapes, tours, place marks, measurements, image overlays, etc. 
+- Activated when application first open
+- Can view 2d satellite images from above
+- Can create paths, shapes, tours, place marks, measurements, image overlays, etc. 
+  
 3D View
     - To Activate: 
       - Go to left sidebar called “layers” 
