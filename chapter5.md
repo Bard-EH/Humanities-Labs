@@ -1,8 +1,8 @@
-Google Earth  
+**Google Earth**  
 
 Navigation/Recommended Keyboard Shortcuts:  
 	
-In standard and 3D building views:  
+**In standard and 3D building views:**
 
 -	Move around on one plane 
       - Click and drag mouse
@@ -20,7 +20,7 @@ In standard and 3D building views:
 -	View latitude and longitude grid 
       - Command + L
 
-In street and ground-level views:
+**In street and ground-level views:**
 
 -	Navigation
       - Scrolling with mouse-pad works better than arrow keys 
@@ -31,7 +31,7 @@ In street and ground-level views:
       - Can double click to move to a location faster
  
 
-Viewing Options: 
+**Viewing Options:**
 
 Standard View
 - Activated when application first open
@@ -58,7 +58,7 @@ Street View
         - Look to the vertical zoom bar on the right 
         - Zoom up, toward the orange person and hold mouse down until Street View activates 
 
-Key Mapping Features 
+**Key Mapping Features**
   - View in “Places” toolbar on left
   - Uncheck to remove from view 
 
