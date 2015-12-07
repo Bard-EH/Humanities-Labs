@@ -34,19 +34,19 @@ In street and ground-level views:
 Viewing Options: 
 
 Standard View
-      - Activated when application first open
+      -  Activated when application first open
       - Can view 2d satellite images from above
       - Can create paths, shapes, tours, place marks, measurements, image overlays, etc. 
 3D View
--	To Activate: 
+    - To Activate: 
       - Go to left sidebar called “layers” 
       - Select “3D buildings”
       - Can create paths, shapes, tours, place marks, measurements, image overlays, etc.  (Same as standard view)
-      
+
 Street View
 -	To Activate: 
-      - Find a street
-      - Zoom in by scrolling on mouse-pad until Street View activates 
+-	Find a street	
+	- Zoom in by scrolling on mouse-pad until Street View activates 
       - If Street View does not activate
         - You might be in Ground View
         - If so, look to the upper right hand corner
