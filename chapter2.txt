@@ -1,10 +1,9 @@
-Adobe Photoshop Lightroom 6
-- _Basic Workflow Tutorial_
+# Adobe Photoshop Lightroom 6
+## Basic Workflow Tutorial
 
-# __In this chapter, we will go through the Lightroom 6 basic photo-editing process and explore additional tools for refinement in Photoshop CS6.__
-## 
+#### In this chapter, we will go through the Lightroom 6 basic photo-editing process and explore additional tools for refinement in Photoshop CS6.
 
-### **Instructions:**
+#### Instructions:
 
 Required programs: Adobe Photoshop Lightroom 6; Adobe Photoshop CS6 or CC
 
