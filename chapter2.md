@@ -1,9 +1,9 @@
 # Adobe Photoshop Lightroom 6
 ## Basic Workflow Tutorial
 
-#### In this chapter, we will go through the Lightroom 6 basic photo-editing process and explore additional tools for refinement in Photoshop CS6.
+##### In this chapter, we will go through the Lightroom 6 basic photo-editing process and explore additional tools for refinement in Photoshop CS6.
 
-#### Instructions:
+##### Instructions:
 
 Required programs: Adobe Photoshop Lightroom 6; Adobe Photoshop CS6 or CC
 
@@ -23,7 +23,9 @@ Once you've decided upon the canvas you want to work with, move onto editing the
 
 After deciding upon an exposure, adjust the contrast. Contrast is the scale of difference between black and white in your image. RAW images assume a neutral contrast level, so increasing the contrast level to around +15 is a safe start. Make sure to pay attention to how adjusting contrast affects the highlights and shadows of the image.
 
-Next, we move onto highlights, shadows, whites, and blacks. 
+Next, we move onto the "Tone" section: highlights, shadows, whites, and blacks. Highlights and whites are similar, in that they are both the brighter part of the image. However, the "highlights" adjustment affects the levels of the brighter parts of the image without affecting the shade of white, while the "whites" adjustment is meant specifically for adjusting the image's shade of white as desired. With the "highlights" slider, you can choose to emphasize the lighter parts of the image by increasing highlight levels, or emphasize the detail within the highlights by decreasing the levels. The "shadows" slider can also be adjusted to reveal detail; try increasing shadows levels by +20 just to test it out. Meanwhile, the "blacks" slider can be adjusted to either lighten the darkest parts of the image, or to further darken the darkest parts to increase contrast — it all depends on the image and the editor. In this case, the tone of white is rather dark for the gazebo, so it seems like a good idea to increase the "white" level about +8. Shadows could be brightened to allow for more background detail, or darkened to draw attention to the gazebo. Highlights should be adjusted with a balance of gazebo detail and background coast detail in mind. But, as we said before, it's your masterpiece!
+
+After "Tone," we should check out "Presence." This includes clarity, vibrance, and saturation. 
 
 
 
