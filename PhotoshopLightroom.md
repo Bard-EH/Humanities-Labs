@@ -37,7 +37,7 @@ The "Detail" tab allows for adjustments of sharpness and noise reduction. When a
 
 The "Lens Corrections" tab uses the Lightroom software to fix the distortion and vignetting that is inherent to camera bodies and lenses. You can either select your lens profile from a list of presets, or correct manually. This tab helps present the image as it actually appears in real life.
 
-Finally, there is the "Effects" tab. 
+Finally, there is the "Effects" tab. While the "Lens Corrections" tab sought to eliminate unintentional vignetting, the first option here is to add the vignetting that you desire. Adjusting the slider to the left creates a black vignette while adjusting the slider to the right creates a white vignette. The shape of the vignette, such as midpoint, rounding, and feathering of the vignette are subsequently adjustable.
 
 
 
