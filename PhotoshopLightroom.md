@@ -15,7 +15,7 @@ Upon opening the file in Lightroom, you will be prompted with options for your p
 
 After importing, go to the "Develop" tab in the top-right corner. You may have to reselect the thumbnail of the image we're working on in the bottom slider menu.
 
-After this point, every step you take is your own! Feel free to get creative, we're just providing the typical guidelines.
+After this point, every step you take is your own! Feel free to get creative — we're just providing the guidelines.
 
 Begin with cropping and adjusting the angle of the photo. The crop tool is in the top left of the tool bar on the right. Level guidelines are overlayed to help with the tilt — though in this case, the image seems to already be level.
 
@@ -29,7 +29,15 @@ After "Tone," we should check out "Presence." This includes clarity, vibrance, a
 
 Next, we're gonna tackle the Tone Curve. First, select the point curve as you see fit. Pay attention to the contrast being added, and how it affects the visibility of details. Once you've chosen a point curve to begin with, you can tweak the highlights, lights, darks, and shadows sliders as you see fit. 
 
-The HSL/Color/B&W tab affects the color values and specific color saturations of the image.
+The HSL/Color/B&W tab affects the color values and specific color saturations of the image. In this case, we are editing a photo with color, so only the "HSL" and "Color" tabs are relevant. Under the "HSL" tab, you can use the sliders to adjust individual colors' hue, saturation, and luminance. Under the "Color" tab, the same options are presented, just in a different format. On the other hand, if you want the photo to be black & white, only the "B&W" tab would be relevant. Under the B&W tab, you can adjust individual colors' values in the spectrum between black & white.
+
+Following these adjustments, we move onto "Split Toning." Split toning is the application of tinting to highlights and shadows. This tool often allows us to achieve a level of color depth that is otherwise unattainable, despite its artificial nature. Try selecting a shade of light blue for the highlights, and a darker green for shadows, in order to make the image pop more. But don't feel restricted to these changes! Split toning is absolutely at the artists' discretion — so, explore your options!
+
+The "Detail" tab allows for adjustments of sharpness and noise reduction. When adjusting sharpness, use the small crosshair icon in the top left of the tab to select the part of the image which you'd like to preview changes in — details are key, especially when sharpening. The noise reduction tool is made possible through luminance adjustments, which hide the grainy "noise" that usually results from the camera's ISO being set too high. After adjusting luminance, you can adjust the detail and contrast as best suits the image.
+
+The "Lens Corrections" tab uses the Lightroom software to fix the distortion and vignetting that is inherent to camera bodies and lenses. You can either select your lens profile from a list of presets, or correct manually. This tab helps present the image as it actually appears in real life.
+
+Finally, there is the "Effects" tab. 
 
 
 
