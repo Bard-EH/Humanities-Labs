@@ -31,3 +31,16 @@ Professors will be able to launch a DH computer lab in just a few minutes."</p>
 <p>Click the button, and login with your DH Box credentials.</p>
 <img src="http://i.imgur.com/IYYdN3a.png" alt="Omeka Login">
 <p>I recommend you read up on <a href="https://github.com/DH-Box/dhbox/wiki/Omeka">DH Box's Omeka Wiki</a>.</p>
+<p>Brackets is "A modern, open source text editor that understands web design." it doesn't require a a username or password and you can learn more about it at <a href="http://brackets.io/">the official website</a>.</p>
+<p>The Jupyter Notebook is "a web application for interactive data science and scientific computing." You can read up about them <a href="https://jupyter.readthedocs.org/en/latest/">here</a>.</p>
+<p>When you click the "Jupyter Notebooks" button, you will be prompted to input your DH Box password:</p>
+<img src="http://i.imgur.com/Zu71TzR.png" alt="Jupyter Login">
+<p>Then, to create a new notebook, click "new" and select your language from the drop-down menu.</p>
+<img src="http://i.imgur.com/yWkdIzb.png" alt="Jupyter Notebook Creation">
+<p>The final tool in our DH Box toolkit is Wordpress: it's "a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability." Click the Wordpress button in DH Box to get started.</p>
+<p>You'll be taken to a language selection screen. I'll be using English but Wordpress supports many more than that.</p>
+<img src="http://i.imgur.com/RlpStiL.png" alt="Wordpress Languages">
+<p>After that, you'll be prompted for several things: a site title, username, password, email address, and whether you want search engines to index your site or not. Fill in your settings and click "Install Wordpress."</p>
+<img src="http://i.imgur.com/F0r4JTF.png" alt="Wordpress Installation">
+<p>Congratulations! You're on your way to becoming a DH Box expert!</p>
+<p>Good luck and have fun!</p>
