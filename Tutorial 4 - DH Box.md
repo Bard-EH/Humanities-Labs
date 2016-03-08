@@ -37,7 +37,7 @@ Professors will be able to launch a DH computer lab in just a few minutes."</p>
 <img src="http://i.imgur.com/Zu71TzR.png" alt="Jupyter Login">
 <p>Then, to create a new notebook, click "new" and select your language from the drop-down menu.</p>
 <img src="http://i.imgur.com/yWkdIzb.png" alt="Jupyter Notebook Creation">
-<p>The final tool in our DH Box toolkit is Wordpress: it's "a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability." Click the Wordpress button in DH Box to get started.</p>
+<p>The final tool in our DH Box toolkit is Wordpress: it's "a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability." Learn more about it on <a href="https://wordpress.org/">Wordpress.org</a>. Click the Wordpress button in DH Box to get started.</p>
 <p>You'll be taken to a language selection screen. I'll be using English but Wordpress supports many more than that.</p>
 <img src="http://i.imgur.com/RlpStiL.png" alt="Wordpress Languages">
 <p>After that, you'll be prompted for several things: a site title, username, password, email address, and whether you want search engines to index your site or not. Fill in your settings and click "Install Wordpress."</p>
