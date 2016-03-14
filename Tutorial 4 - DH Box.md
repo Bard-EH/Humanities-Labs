@@ -22,25 +22,31 @@ Professors will be able to launch a DH computer lab in just a few minutes."</p>
 <img src="http://i.imgur.com/B93EQUQ.png" alt="Before Login">
 <img src="http://i.imgur.com/Eg0310r.png" alt="After Login">
 <p>Now, you have access to a fully featured command line! For more documentation on how to use it, I recommend <a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a> or <a href="https://github.com/DH-Box/dhbox/wiki/Bash-shell">DH Box's own documentation</a>.</p>
+<br>
 <p>Next on our list of DH Box tools is R Studio, a fully featured user interface for R. Learn more <a href="https://www.rstudio.com/home/">here</a>.</p>
 <p>After clicking on the "R Studio" button, you should be taken here:</p>
 <img src="http://i.imgur.com/GojHfhm.png" alt="R Studio Login">
 <p>Note that your login credentials are the same here as they are for your DH Box.</p>
 <p>You'll then be taken into R Studio. To learn more about R, I recommend <a href="http://www.tutorialspoint.com/r/">TutorialsPoint</a>. It should give you the necessary basics to get started.</p>
+<br>
 <p>Then there's Omeka. It's "a free, flexible, and open source web-publishing platform for the display of library, museum, archives, and scholarly collections and exhibitions."</p>
-<p>Click the button, and login with your DH Box credentials.</p>
+<p>Click the button, and log in with your DH Box credentials.</p>
 <img src="http://i.imgur.com/IYYdN3a.png" alt="Omeka Login">
 <p>I recommend you read up on <a href="https://github.com/DH-Box/dhbox/wiki/Omeka">DH Box's Omeka Wiki</a>.</p>
+<br>
 <p>Brackets is "A modern, open source text editor that understands web design." it doesn't require a a username or password and you can learn more about it at <a href="http://brackets.io/">the official website</a>.</p>
+<br>
 <p>The Jupyter Notebook is "a web application for interactive data science and scientific computing." You can read up about them <a href="https://jupyter.readthedocs.org/en/latest/">here</a>.</p>
 <p>When you click the "Jupyter Notebooks" button, you will be prompted to input your DH Box password:</p>
 <img src="http://i.imgur.com/Zu71TzR.png" alt="Jupyter Login">
 <p>Then, to create a new notebook, click "new" and select your language from the drop-down menu.</p>
 <img src="http://i.imgur.com/yWkdIzb.png" alt="Jupyter Notebook Creation">
+<br>
 <p>The final tool in our DH Box toolkit is Wordpress: it's "a state-of-the-art semantic personal publishing platform with a focus on aesthetics, web standards, and usability." Learn more about it on <a href="https://wordpress.org/">Wordpress.org</a>. Click the Wordpress button in DH Box to get started.</p>
 <p>You'll be taken to a language selection screen. I'll be using English but Wordpress supports many more than that.</p>
 <img src="http://i.imgur.com/RlpStiL.png" alt="Wordpress Languages">
 <p>After that, you'll be prompted for several things: a site title, username, password, email address, and whether you want search engines to index your site or not. Fill in your settings and click "Install Wordpress."</p>
 <img src="http://i.imgur.com/F0r4JTF.png" alt="Wordpress Installation">
+<br>
 <p>Congratulations! You're on your way to becoming a DH Box expert!</p>
 <p>Good luck and have fun!</p>
