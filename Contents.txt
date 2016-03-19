@@ -1,4 +1,0 @@
-About.txt
-chapter1.txt
-chapter3.txt
-chapter2.md
