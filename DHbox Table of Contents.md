@@ -38,3 +38,4 @@
     - Publishing posts
     - Installing and configuring themes
     - Installing and configuring plugins
+7. (Advanced) Python tutorials
