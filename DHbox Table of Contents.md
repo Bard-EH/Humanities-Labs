@@ -15,6 +15,7 @@
       * Excel or CSV
 2. R Studio:
     - Data analysis
+    - Data mining
     - Graphing
 3. Omeka:
     - Basic setup
@@ -31,6 +32,8 @@
     - Creating notebooks
     - Exporting notebooks
     - Running code
+    - Using magic commands
+    - Editing cells
     - Controlling the kernel
 6. Wordpress
     - Basic setup
@@ -39,3 +42,6 @@
     - Installing and configuring themes
     - Installing and configuring plugins
 7. (Advanced) Python tutorials
+    - Tutorial 0: Introduction to Python
+    - Tutorial 1: Twitter Archiver
+    - Tutorial 2: Topic Modeling Tweets
